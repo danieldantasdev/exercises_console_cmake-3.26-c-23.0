@@ -5,9 +5,9 @@
 #include <stdio.h>
 
 int exercise_2() {
-    double x = 0.0;
+    float x = 0;
     printf("%s", "Informe um número real: ");
-    scanf("%lf", &x);
+    scanf("%f", &x);
     printf("Você inseriu: %.1f\n", x);
     return 0;
 }
