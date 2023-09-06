@@ -1,7 +1,7 @@
-//
-// Created by danieldantasdev on 06/09/23.
-// Leia um número real e imprima a quinta parte desse número
-//
+/**
+ * Created by danieldantasdev on 06/09/23.
+ * Leia um número real e imprima a quinta parte desse número
+*/
 #include <stdio.h>
 
 int exercise_5() {

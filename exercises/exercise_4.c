@@ -1,7 +1,7 @@
-//
-// Created by danieldantasdev on 06/09/23.
-// Leia um número real e imprima o quadrado desse número
-//
+/**
+ * Created by danieldantasdev on 06/09/23.
+ * Leia um número real e imprima o quadrado desse número
+*/
 #include <stdio.h>
 
 int exercise_4() {
