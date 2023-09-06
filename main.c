@@ -1,6 +1,7 @@
-int exercise_1(int x);
+int exercise_1();
+int exercise_2();
 
 int main() {
-    exercise_1(1);
+    exercise_2();
     return 0;
 }
