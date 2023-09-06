@@ -6,4 +6,5 @@ set(CMAKE_C_STANDARD 23)
 add_executable(exercises_console_cmake_3_26_c_23_0 main.c
         exercises/exercise_1.c
         exercises/exercise_2.c
-        exercises/exercise_3.c)
+        exercises/exercise_3.c
+        exercises/exercise_4.c)
