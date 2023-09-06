@@ -1,6 +1,6 @@
-#include <stdio.h>
+int exercise_1(int x);
 
 int main() {
-    printf("Hello, World!\n");
+    exercise_1(1);
     return 0;
 }
