@@ -8,8 +8,10 @@ int exercise_4();
 
 int exercise_5();
 
+int exercise_6();
+
 
 int main() {
-    exercise_5();
+    exercise_6();
     return 0;
 }

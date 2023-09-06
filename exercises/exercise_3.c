@@ -1,7 +1,7 @@
-//
-// Created by danieldantasdev on 06/09/23.
-// Peça ao usuário para digitar 3 números inteiros e imprima a soma deles
-//
+/**
+ * Created by danieldantasdev on 06/09/23.
+ * Peça ao usuário para digitar 3 números inteiros e imprima a soma deles
+*/
 #include <stdio.h>
 
 int exercise_3() {
