@@ -106,6 +106,6 @@ int exercise_53();
 
 
 int main() {
-    exercise_39();
+    exercise_40();
     return 0;
 }
