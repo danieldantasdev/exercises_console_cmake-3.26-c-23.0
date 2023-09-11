@@ -36,8 +36,12 @@ int exercise_18();
 
 int exercise_19();
 
+int exercise_20();
+
+int exercise_21();
+
 
 int main() {
-    exercise_19();
+    exercise_20();
     return 0;
 }
