@@ -48,6 +48,10 @@ int exercise_24();
 
 int exercise_25();
 
+int exercise_26();
+
+int exercise_27();
+
 
 int main() {
     exercise_23();
