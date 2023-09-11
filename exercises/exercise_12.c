@@ -11,6 +11,6 @@ int exercise_12() {
     printf("%s", "Insira a distância em milhas: ");
     scanf("%f", &x);
     float result = 1.61 * x;
-    printf("%.2f", result);
+    printf("A distância em quilometros é: %.2f", result);
     return 0;
 }
