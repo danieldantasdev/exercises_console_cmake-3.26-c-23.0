@@ -1,0 +1,16 @@
+/**
+ * Created by danieldantasdev on 06/09/23.
+ * Leia um valor de área em metros quadrados m² e apresente-o convertido em hectares.
+ * A fórmula de conversão é: H = M * 0,0001,
+ * sendo M a área em metros quadrados e H a área em hectares.
+*/
+#include <stdio.h>
+
+int exercise_26() {
+    float x = 0;
+    printf("%s", "Insira área em metros quadrados: ");
+    scanf("%f", &x);
+    float result = x * 0.0001;
+    printf("A área em hectares é: %.2f", result);
+    return 0;
+}
