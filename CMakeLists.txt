@@ -26,4 +26,6 @@ add_executable(exercises_console_cmake_3_26_c_23_0 main.c
         exercises/exercise_20.c
         exercises/exercise_21.c
         exercises/exercise_22.c
-        exercises/exercise_23.c)
+        exercises/exercise_23.c
+        exercises/exercise_24.c
+        exercises/exercise_25.c)
