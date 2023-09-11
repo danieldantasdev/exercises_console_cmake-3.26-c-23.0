@@ -52,8 +52,60 @@ int exercise_26();
 
 int exercise_27();
 
+int exercise_28();
+
+int exercise_29();
+
+int exercise_30();
+
+int exercise_31();
+
+int exercise_32();
+
+int exercise_33();
+
+int exercise_34();
+
+int exercise_35();
+
+int exercise_36();
+
+int exercise_37();
+
+int exercise_38();
+
+int exercise_39();
+
+int exercise_40();
+
+int exercise_41();
+
+int exercise_42();
+
+int exercise_43();
+
+int exercise_44();
+
+int exercise_45();
+
+int exercise_46();
+
+int exercise_47();
+
+int exercise_48();
+
+int exercise_49();
+
+int exercise_50();
+
+int exercise_51();
+
+int exercise_52();
+
+int exercise_53();
+
 
 int main() {
-    exercise_23();
+    exercise_28();
     return 0;
 }
